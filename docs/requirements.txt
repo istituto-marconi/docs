@@ -1,1 +1,1 @@
-$ pip install git+https://github.com/italia/docs-italia-theme.git
+$ pip install read-the-docs-template
